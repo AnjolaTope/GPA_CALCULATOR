@@ -5,4 +5,4 @@ By- Riswan Agyeman,
     AnjolaOluwa Tope Babalola and
     Chukwuma Okoro
 
- This is the link to my code online: https://repl.it/@AnjolaTopeBabal/GPACALCULATOR
+ This is the link to run my code online: https://repl.it/@AnjolaTopeBabal/GPACALCULATOR
